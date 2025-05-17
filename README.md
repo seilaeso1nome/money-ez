@@ -1,4 +1,3 @@
-# money-ez-- Ninja Legends OP GUI
 
 -- credits to k00dkidd
 
